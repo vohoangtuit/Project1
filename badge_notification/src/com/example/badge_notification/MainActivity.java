@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
 
     private EditText numInput;
 	// vohoangtuit
+	// add nhompro3
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
