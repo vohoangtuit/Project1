@@ -17,6 +17,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 
     private EditText numInput;
+	// vohoangtuit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
